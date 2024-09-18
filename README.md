@@ -11,19 +11,27 @@ yy = Part
 ## only in meet 11:
 
 
-use:
+### use :
 1- Pandas
+
 2- Matplotlib
+
 3- work with csv file
+
 4- central tendency
+
 5- quartile
+
 6- standard deviation
+
 7- variance
+
 8- covariance
+
 9- correlation
 
-
-charts:
+-------------------
+### charts :
 line chart
 
 bar chart
@@ -36,7 +44,7 @@ scatter chart
 
 pie chart
 
-
-chart modes:
+------------------
+### chart modes :
 
 subplots
