@@ -48,3 +48,11 @@ pie chart
 ### chart modes :
 
 subplots
+
+## only in meet 14 
+
+### use | charts:
+scatter chart 
+machine learning 
+tree classifications
+
